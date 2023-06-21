@@ -1,7 +1,7 @@
 {
-	"name": "Open Cache Clearing Page",
+	"name": "Open Microphone Settings Page",
 	"version": "1.0.0",
-	"description": "Sends user to Chrome's built-in cache clearing page by bypassing restrictions on opening local pages.",
+	"description": "Sends user to Chrome's built-in microphone settings page by bypassing restrictions on opening local pages.",
 	"manifest_version": 3,
 	"author": "Owen Sullivan",
 	"action": {},
