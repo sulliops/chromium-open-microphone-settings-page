@@ -34,7 +34,7 @@ const openLocalFile = (localFileUrl, baseTab) => {
 	});
 };
 
-const url = "chrome://settings/clearBrowserData";
+const url = "chrome://settings/content/microphone";
 
 chrome.action.onClicked.addListener(
 	function(tab) {
